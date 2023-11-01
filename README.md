@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, soy Omar Roa</h1>
 <h3 align="center">Desarrollador Web Venezolano</h3>
 
-- 🔭 Actualmente trabajo en **ACO Rent A Car**
+- 🔭 Actualmente trabajo como profesional **Freelance**
 
-- 🌱 Sigo aprendiendo de **Java, Struts 2, JEE, JSP**
+- 🌱 Sigo aprendiendo de **Bulma, CakePHP, NodeJS, Python, Flask**
 
-- 💬 Pregúnteme acerca de **HTML, CSS, JS, Java, Struts 2**
+- 💬 Pregúnteme acerca de **HTML, CSS, JS, Bootstrap, BulmaCSS, WordPress, WooCommerce**
 
-- 📫 Ubíqueme mediante: **omarobre@gmail.com**
+- 📫 Ubíqueme mediante: **codingroa@gmail.com**
 
 <h3 align="left">Contácteme:</h3>
 <p align="left">
